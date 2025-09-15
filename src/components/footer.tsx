@@ -10,13 +10,13 @@ const navigation = {
   ],
   social: [
     {
-      name: "Twitter",
-      href: "https://x.com/mrinal_mann",
-      icon: Twitter,
+      name: "GitHub",
+      href: "https://github.com/mrinal-mann",
+      icon: Github,
     },
     {
       name: "GitHub",
-      href: "https://github.com/mrinal-mann/RepoFlow-Ai",
+      href: "https://github.com/manasmanna99",
       icon: Github,
     },
   ],
